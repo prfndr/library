@@ -1,18 +1,17 @@
 # library
-WindowsForms Library (search for existing and record new books).
 A  simple information system that supports the accounting of books in the home library.
 The database consists of one lib.txt file, in the file each book is represented by one entry.
 Each entry consists of the following fields:
-• Book title;
-• Authors (one or more);
-• Genre;
-• Year of release;
-• Cover width;
-• Cover height;
-• Binding format (soft, hard);
-• Source of appearance (purchase, gift, inheritance);
-• Date of appearance in the library;
-• Date of reading; Rating with comment;
+-  Book title;
+2. Authors (one or more);
+3. Genre;
+4. Year of release;
+5. Cover width;
+6. Cover height;
+7. Binding format (soft, hard);
+8. Source of appearance (purchase, gift, inheritance);
+9. Date of appearance in the library;
+10. Date of reading; Rating with comment;
 The following methods are implemented:
 1. View the entire list of books;
 2. Search for the right book by title, genre, author;
