@@ -1,0 +1,11 @@
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\bin\Debug\netcoreapp3.0\gen.exe
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\bin\Debug\netcoreapp3.0\gen.deps.json
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\bin\Debug\netcoreapp3.0\gen.runtimeconfig.json
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\bin\Debug\netcoreapp3.0\gen.runtimeconfig.dev.json
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\bin\Debug\netcoreapp3.0\gen.dll
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\bin\Debug\netcoreapp3.0\gen.pdb
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\obj\Debug\netcoreapp3.0\gen.csprojAssemblyReference.cache
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\obj\Debug\netcoreapp3.0\gen.AssemblyInfoInputs.cache
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\obj\Debug\netcoreapp3.0\gen.AssemblyInfo.cs
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\obj\Debug\netcoreapp3.0\gen.dll
+D:\Рабочий стол\субд\1 семак\лр1\gen\gen\obj\Debug\netcoreapp3.0\gen.pdb
